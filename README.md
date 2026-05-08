@@ -1,4 +1,4 @@
-# The Unrealised Carbon Economy — India
+# The Unrealised Carbon Economy - India
 ## Quantifying Lost Carbon Credit Income for Smallholder Farmers Using NASA Satellite Data
 
 **Author:** Vanshita Sharma  
