@@ -10,13 +10,13 @@
 
 ## Headline Finding
 
-> India's 128.9 million smallholder farmers are losing between **₹7,187 crore and ₹34,535 crore every year** in unrealised carbon credit income — simply because they cannot access India's carbon market. This equals 1%–4% of average annual farm income per farmer, every single year.
+> India's 128.9 million smallholder farmers are losing between **₹7,187 crore and ₹34,535 crore every year** in unrealised carbon credit income - simply because they cannot access India's carbon market. This equals 1%–4% of average annual farm income per farmer, every single year.
 
 ---
 
 ## The Problem
 
-India launched its Carbon Credit Trading Scheme (CCTS) in 2023. Yet agriculture — which accounts for nearly 20% of India's total GHG emissions — remains effectively inaccessible to the 128.9 million smallholder farmers who could earn income by adopting low-carbon practices.
+India launched its Carbon Credit Trading Scheme (CCTS) in 2023. Yet agriculture - which accounts for nearly 20% of India's total GHG emissions - remains effectively inaccessible to the 128.9 million smallholder farmers who could earn income by adopting low-carbon practices.
 
 Every existing study frames this as a *future opportunity*. This study turns that around and asks: **what is the cost of exclusion right now?**
 
@@ -24,7 +24,7 @@ Every existing study frames this as a *future opportunity*. This study turns tha
 
 ## Research Gap
 
-Yadav et al. (2024) assessed carbon credit potential for conservation agriculture in Bihar and Punjab for the wheat season using primary farmer surveys — finding potential income of $18/ha in Bihar and $30/ha in Punjab. However, no study has:
+Yadav et al. (2024) assessed carbon credit potential for conservation agriculture in Bihar and Punjab for the wheat season using primary farmer surveys - finding potential income of $18/ha in Bihar and $30/ha in Punjab. However, no study has:
 
 - Quantified the income gap at **national scale across all major agricultural states**
 - Used **NASA satellite fire data (MODIS C6.1)** as an independent evidence layer for crop residue burning
@@ -50,16 +50,16 @@ This study addresses all four gaps using publicly available institutional data s
 
 ## Methodology
 
-**Step 1 — NASA Satellite Fire Evidence**  
+**Step 1 - NASA Satellite Fire Evidence**  
 Downloaded 18,963 high-confidence vegetation fire detections for India (Oct–Nov 2023) directly from NASA FIRMS API (MODIS Standard Processing, Collection 6.1). Filtered to type=0 (presumed vegetation fire) and confidence ≥ 50. Mapped detections to states using Survey of India bounding coordinates.
 
-**Step 2 — Carbon Credit Potential**  
+**Step 2 - Carbon Credit Potential**  
 Applied peer-reviewed carbon reduction factors (1.23–1.97 tCO₂eq/ha/year, Yadav et al. 2024) to state-wise smallholder farm area from Agriculture Census 2015-16 (86.21% smallholder share, avg holding 1.08 ha).
 
-**Step 3 — Income Gap Calculation**  
+**Step 3 - Income Gap Calculation**  
 Converted carbon credit potential to INR income using Voluntary Carbon Market price range ($5–$15/tCO₂eq, World Bank 2024) at RBI reference rate (₹83.5/USD). Expressed as total state-level gap (₹ crore/year) and per-farmer annual loss.
 
-**Step 4 — Policy Context**  
+**Step 4 - Policy Context**  
 Benchmarked per-farmer carbon gap against average annual farm income (₹77,976, NABARD NAFIS 2019) to contextualise the exclusion cost at household level.
 
 ---
@@ -91,13 +91,13 @@ Benchmarked per-farmer carbon gap against average annual farm income (₹77,976,
 | Maharashtra | 650 |
 
 ### 5. Carbon Reduction Potential
-**275.7 million tCO₂eq/year** — if all smallholder farmers adopt conservation agriculture practices. This represents a significant contribution to India's Updated NDC (2022) AFOLU sector targets.
+**275.7 million tCO₂eq/year** - if all smallholder farmers adopt conservation agriculture practices. This represents a significant contribution to India's Updated NDC (2022) AFOLU sector targets.
 
 ---
 
 ## Visualisations
 
-### NASA Satellite Fire Timeline — India Oct–Nov 2023
+### NASA Satellite Fire Timeline - India Oct–Nov 2023
 ![Fire Timeline](chart_nasa_fire_timeline.png)
 
 ### Carbon Credit Income Gap vs NASA Fire Evidence by State
@@ -113,10 +113,10 @@ Benchmarked per-farmer carbon gap against average annual farm income (₹77,976,
 
 ## Policy Implications
 
-1. **Extend CCTS to agriculture immediately** — the income exclusion cost is ₹7,187–34,535 crore annually, not a future risk but a present reality
-2. **Prioritise Punjab and Haryana** — NASA satellite data confirms these states have the highest burning intensity and therefore the highest abatement potential
-3. **Design aggregation mechanisms** — smallholder farm sizes (avg 1.08 ha) are too small for individual carbon credit issuance; state-level or cooperative aggregation models are essential
-4. **Use satellite monitoring for MRV** — NASA FIRMS data demonstrates that Monitoring, Reporting and Verification (MRV) of agricultural burning is already technically feasible at zero additional cost
+1. **Extend CCTS to agriculture immediately** - the income exclusion cost is ₹7,187–34,535 crore annually, not a future risk but a present reality
+2. **Prioritise Punjab and Haryana** - NASA satellite data confirms these states have the highest burning intensity and therefore the highest abatement potential
+3. **Design aggregation mechanisms** - smallholder farm sizes (avg 1.08 ha) are too small for individual carbon credit issuance; state-level or cooperative aggregation models are essential
+4. **Use satellite monitoring for MRV** - NASA FIRMS data demonstrates that Monitoring, Reporting and Verification (MRV) of agricultural burning is already technically feasible at zero additional cost
 
 ---
 
